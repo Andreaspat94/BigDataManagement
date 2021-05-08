@@ -1,0 +1,8 @@
+"name",string
+"age",int
+"address",string
+"number",int
+"zipCode",int
+"height",float
+"email",string
+"profession",string
